@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🏫 1st year undergrad, SRMIST, chennai
 - 🌱 I’m currently learning Android Development.
-- 📫 How to reach me: vardhananubhav@gmail.com
--                     vardhananubhav@protonmail.com
+- 📫 Reach me: vardhananubhav@gmail.com, vardhananubhav@protonmail.com
+- 😄 Pronouns: He/him/his
