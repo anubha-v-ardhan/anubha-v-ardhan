@@ -33,3 +33,13 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/fluent/2x/github.png"  alt="GitHub"  width="40"  height="40"/>
 <img src="https://img.icons8.com/color/2x/autodesk-autocad.png"  alt="AutoCAD"  width="40"  height="40"/>
 
+### Connect with me:
+<p  align="left">
+
+<a  href="https://www.linkedin.com/in/anubhav-vardhan-a89587192/"  target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
+<a  href="https://www.instagram.com/anubhav_vardhan"  target="_blank">
+<img  align="center"  src="https://img.icons8.com/dusk/2x/instagram-new.png" height="40"  width="40"  /></a>
+<a href="mailto:vardhananubhav@gmail.com" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
+
