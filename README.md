@@ -16,10 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Android Development.
-- 📫 Reach me:
--         Mail: vardhananubhav@gmail.com
--               vardhananubhav@protonmail.com
--         LinkedIn: linkedin.com/anubhav-vardhan-a89587192/
--          
-- 😄 Pronouns: He/him/his
-- 
+- 📫 How to reach me: vardhananubhav@gmail.com
+-                     vardhananubhav@protonmail.com
