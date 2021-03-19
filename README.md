@@ -34,4 +34,5 @@
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubha-v-ardhan&bg_color=120,0d1117,6549c2&title_color=73CFFE&text_color=fff&hide_border=true&layout=compact)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubha-v-ardhan&show_icons=true&locale=en&layout=compact" alt="anubha-v-ardhan" /></p>
