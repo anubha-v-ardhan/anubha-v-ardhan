@@ -22,11 +22,13 @@
 <p  align="left">
 
 <a  href="https://www.linkedin.com/in/anubhav-vardhan-a89587192/"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
+<img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174857.png" height="40"  width="40"  /></a>
 <a  href="https://www.instagram.com/anubhav_vardhan"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/dusk/2x/instagram-new.png" height="40"  width="40"  /></a>
+<img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" height="40"  width="40"  /></a>
+<a  href="https://twitter.com/anubha_v_ardhan"  target="_blank">
+<img  align="center"  src="https://image.flaticon.com/icons/png/512/124/124021.png" height="40"  width="40"  /></a>
 <a href="mailto:vardhananubhav@gmail.com" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
+<img  align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"  height="40"  width="40"  /></a>
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubha-v-ardhan&bg_color=120,0d1117,6549c2&title_color=73CFFE&text_color=fff&hide_border=true&layout=compact)
