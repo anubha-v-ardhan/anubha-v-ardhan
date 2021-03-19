@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Anubhav Vardhan
 
 <!--
 **anubha-v-ardhan/anubha-v-ardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Android Development.
+- 📫 Reach me:
+-         Mail: vardhananubhav@gmail.com
+-               vardhananubhav@protonmail.com
+-         LinkedIn: linkedin.com/anubhav-vardhan-a89587192/
+-          
+- 😄 Pronouns: He/him/his
+- 
