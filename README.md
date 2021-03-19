@@ -32,8 +32,8 @@
 <img  align="center"  src="https://img.icons8.com/dusk/2x/instagram-new.png" height="40"  width="40"  /></a>
 <a href="mailto:vardhananubhav@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
-<br><br>
 
+### Stats:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubha-v-ardhan&show_icons=true&locale=en&layout=compact" alt="anubha-v-ardhan" />
 
