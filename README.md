@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Anubhav Vardhan
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamertech2001&label=Profile%20views&color=0e75b6&style=flat" alt="gamertech2001" /> </p>
+
 
 - 🏫 1st year CS undergrad, SRMIST, Chennai
 - 🌱 Currently learning Android Development.
