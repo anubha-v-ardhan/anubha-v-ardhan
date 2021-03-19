@@ -7,7 +7,7 @@
 - 📫 Reach me: vardhananubhav@gmail.com, vardhananubhav@protonmail.com
 - 😄 Pronouns: He/him/his
 
-### Languages and Tools I know:
+### Languages and Tools:
 
 <p align="left">
   
