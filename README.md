@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 1st year CS undergrad, SRMIST, chennai
+- 🏫 1st year CS undergrad, SRMIST, Chennai
 - 🌱 I’m currently learning Android Development.
 - 📫 Reach me: vardhananubhav@gmail.com, vardhananubhav@protonmail.com
 - 😄 Pronouns: He/him/his
