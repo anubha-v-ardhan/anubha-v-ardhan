@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him/his
 
 ### Languages and Tools I know:
-
+<p align="left">
 <img src="https://img.icons8.com/plasticine/2x/android-os.png"  alt="Android"  width="40"  height="40"/>
 <img src="https://img.icons8.com/plasticine/2x/visual-studio-code-2019.png"  alt="VSCode"  width="40"  height="40"/>
 <img src="https://static.wikia.nocookie.net/logopedia/images/e/ed/Android_Studio_2019.png/revision/latest/scale-to-width-down/340?cb=20200605162922" alt="Android Studio" width="40"  height="40"/>
