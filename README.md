@@ -5,7 +5,6 @@
 - 🏫 1st year CS undergrad, SRMIST, Chennai
 - 😃 Open Source Enthusiast
 - 🌱 Currently learning Golang, devOps and Android Dev
-- 📫 Reach me: vardhananubhav@gmail.com, vardhananubhav@protonmail.com
 - 😄 Pronouns: He/him/his
 
 ### Languages and Tools:
