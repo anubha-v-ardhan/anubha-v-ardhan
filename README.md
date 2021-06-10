@@ -3,7 +3,7 @@
 
 
 - 🏫 1st year CS undergrad, SRMIST, Chennai
-- 🌱 Currently learning Android Development.
+- 🌱 Currently learning Golang, devOps and Android Dev
 - 📫 Reach me: vardhananubhav@gmail.com, vardhananubhav@protonmail.com
 - 😄 Pronouns: He/him/his
 
