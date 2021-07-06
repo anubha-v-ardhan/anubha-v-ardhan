@@ -37,7 +37,7 @@
 
 ### Statistics:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubha-v-ardhan&show_icons=true&locale=en&layout=compact" alt="anubha-v-ardhan" />
-<br> 
+ 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=anubha-v-ardhan&theme=rogue" />
 
 
