@@ -38,7 +38,8 @@
 ### Statistics:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubha-v-ardhan&show_icons=true&locale=en&layout=compact" alt="anubha-v-ardhan" />
   
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=anubha-v-ardhan&show_icons=true&locale=en" /></p>
-
+<!-- <br>
+<img  src="https://github-readme-stats.vercel.app/api?username=anubha-v-ardhan&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for Anubhav Vardhan">
+ -->
 
 
