@@ -39,8 +39,3 @@
 
 ### Statistics:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubha-v-ardhan&show_icons=true&locale=en&layout=compact" alt="anubha-v-ardhan" /></p>
- 
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/anubha-v-ardhan/anubha-v-ardhan/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
