@@ -23,6 +23,8 @@
 <img src="https://img.icons8.com/color/2x/autodesk-autocad.png"  alt="AutoCAD"  width="40"  height="40"/>
 <img src="https://img.icons8.com/color/2x/golang.png" alt="GoLang" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/2x/docker.png"/ alt="Docker" width="40" height="40">
+<img src="https://img.icons8.com/fluent/2x/kubernetes.png"/ alt="Docker" width="40" height="40">
+
 
 ### Connect with me:
 
