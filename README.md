@@ -29,7 +29,7 @@
 ### My Blogs:
 
 <a  href="https://anubhavv.hashnode.dev/"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/color/48/000000/writing-down.png" height="40"  width="40"  /></a>
+<img  align="center"  src="https://code.iconify.design/2/2.0.3/iconify.min.js" height="40"  width="40"  /></a>
   
 ### Connect with me:
 
