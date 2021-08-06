@@ -29,8 +29,8 @@
 ### My Blogs:
 
 <a  href="https://anubhavv.hashnode.dev/"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/hashnode.png" height="40"  width="40"  /></a>
-
+<img  align="center"  src="https://img.icons8.com/color/48/000000/writing-down.png" height="40"  width="40"  /></a>
+  
 ### Connect with me:
 
 <p  align="left">
