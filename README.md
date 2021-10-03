@@ -3,7 +3,7 @@
 
 
 - 🏫 2nd year CS undergrad, SRMIST, Chennai
-- 😃 Open Source Enthusiast | Contributor @kubernetes
+- ⎈
 - 🌱 Currently learning Java, Golang, DevOps and Android Development
 - 😄 Pronouns: He/him/his
 
