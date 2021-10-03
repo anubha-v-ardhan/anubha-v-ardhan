@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubha-v-ardhan&label=Profile%20views&color=0e75b6&style=flat" alt="anubha-v-ardhan" /> </p>
 
 
-- 🏫 2nd year CS undergrad, SRMIST, Chennai
-- ⎈
-- 🌱 Currently learning Java, Golang, DevOps and Android Development
+- 🏫 Sophomore CS undergrad
+- Contributor at Kubernetes
+- 🌱 Learning Java, Go and DevOps technologies.
 - 😄 Pronouns: He/him/his
 
 ### Languages and Tools:
