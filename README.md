@@ -3,7 +3,7 @@
 
 
 - 🏫 Sophomore CS undergrad
-- Open Source enthusiast | Contributor at Kubernetes 
+- Open Source enthusiast | Contributor/Docs maintainer at Kubernetes 
 - 🌱 Learning Java, Go, Data Structures and Algorithms
 - 😄 Pronouns: He/him/his
 
