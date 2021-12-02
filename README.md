@@ -1,13 +1,13 @@
-### Hi there 👋, I'm Anubhav Vardhan
+# Hi there, I'm Anubhav Vardhan 👋
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubha-v-ardhan&label=Profile%20views&color=0e75b6&style=flat" alt="anubha-v-ardhan" /> </p>
 
-
 - 🏫 Sophomore CS undergrad
-- Open Source enthusiast | Contributor at Kubernetes 
-- 🌱 Learning Java, Go, Data Structures and Algorithms
+- Open Source enthusiast | Contributor at Kubernetes
+- 🌱 Learning Java, Go, Data Structures, and Algorithms
 - 😄 Pronouns: He/him/his
 
-### Languages and Tools:
+### Languages and Tools
 
 <p align="left">
   
@@ -26,12 +26,12 @@
 <img src="https://img.icons8.com/fluent/2x/docker.png"/ alt="Docker" width="40" height="40">
 <img src="https://img.icons8.com/color/2x/kubernetes.png"/ alt="Kubernetes" width="40" height="40">
 
-### My Blogs:
+### My Blogs
 
 <a  href="https://anubhavv.hashnode.dev/"  target="_blank">
 <img  align="center"  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" height="40"  width="40"  /></a>
   
-### Connect with me:
+### Connect with me
 
 <p  align="left">
 
@@ -44,5 +44,6 @@
 <a href="mailto:vardhananubhav@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
 
-### Statistics:
+### Statistics
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubha-v-ardhan&show_icons=true&locale=en&layout=compact" alt="anubha-v-ardhan" /></p>
