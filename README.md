@@ -1,7 +1,7 @@
 # Hi there, I'm Anubhav Vardhan 👋
 
 - 🏫 Sophomore CS undergrad
-- Open Source enthusiast | Contributor at Kubernetes
+- ⛵ Open Source enthusiast | Contributor at Kubernetes
 - 🌱 Learning Java, Go, Data Structures, and Algorithms
 - 😄 Pronouns: He/him/his
 
