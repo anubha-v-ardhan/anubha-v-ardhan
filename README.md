@@ -26,7 +26,7 @@
 
 ### My Blogs
 
-🐋 [Docker explained for Beginners](https://anubhavv.hashnode.dev/docker-explained-for-beginners)
+🐋 [**Docker explained for Beginners**](https://anubhavv.hashnode.dev/docker-explained-for-beginners)
   
 ### Connect with me
 
