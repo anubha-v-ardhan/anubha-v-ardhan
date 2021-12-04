@@ -1,7 +1,5 @@
 # Hi there, I'm Anubhav Vardhan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubha-v-ardhan&label=Profile%20views&color=0e75b6&style=flat" alt="anubha-v-ardhan" /> </p>
-
 - 🏫 Sophomore CS undergrad
 - Open Source enthusiast | Contributor at Kubernetes
 - 🌱 Learning Java, Go, Data Structures, and Algorithms
