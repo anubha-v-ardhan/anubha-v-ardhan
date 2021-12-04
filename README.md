@@ -26,8 +26,7 @@
 
 ### My Blogs
 
-<a  href="https://anubhavv.hashnode.dev/"  target="_blank">
-<img  align="center"  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" height="40"  width="40"  /></a>
+🐋 [Docker explained for Beginners](https://anubhavv.hashnode.dev/docker-explained-for-beginners)
   
 ### Connect with me
 
