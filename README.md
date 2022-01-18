@@ -26,6 +26,7 @@
 
 ### My Blogs
 
+- 💻 [**Introduction to YAML**](https://anubha-v-ardhan.github.io/blog/introduction-to-yaml/)
 - 🐋 [**Docker explained for Beginners**](https://anubha-v-ardhan.github.io/blog/docker-introduction-for-beginners/)
   
 ### Connect with me
