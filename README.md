@@ -1,4 +1,4 @@
-# Hi there, I'm Anubhav Vardhan
+# Hi there, I'm Anubhav Vardhan👋
 
 - 🏫 Sophomore CS undergrad
 - ⛵ Open Source enthusiast | Contributor at Kubernetes
