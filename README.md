@@ -1,7 +1,8 @@
 # Hi there, I'm Anubhav Vardhan👋
 
 - 🏫 Sophomore CS undergrad
-- ⛵ Open Source enthusiast | Contributor at Kubernetes
+- ⛵ Open Source enthusiast | Contributor at [Kubernetes](https://github.com/kubernetes) and [CNCF](https://github.com/cncf)
+- ✅ Approver and Reviewer for K8s Hindi Docs and CNCF Hindi Glossary
 - 🌱 Learning Java, Go, Data Structures, and Algorithms
 - 😄 Pronouns: He/him/his
 
