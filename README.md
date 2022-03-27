@@ -3,7 +3,7 @@
 - 🏫 Sophomore CS undergrad
 - ⛵ Open Source enthusiast | Contributor at [Kubernetes](https://github.com/kubernetes) and [CNCF](https://github.com/cncf)
 - ✅ Approver and Reviewer for K8s Hindi Docs and CNCF Hindi Glossary
-- 🌱 Learning Go and DevOps
+- 🌱 Learning Go and DevOps stuff
 - 😄 Pronouns: He/him/his
 
 ### Languages and Tools
