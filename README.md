@@ -39,7 +39,7 @@
 <a  href="https://www.linkedin.com/in/anubhav-vardhan-a89587192/"  target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
 <a  href="https://www.instagram.com/anubhav_vardhan"  target="_blank">
-# <img  align="center"  src="https://img.icons8.com/dusk/2x/instagram-new.png" height="40"  width="40"  /></a>
+<!-- <img  align="center"  src="https://img.icons8.com/dusk/2x/instagram-new.png" height="40"  width="40"  /></a> -->
 <a href="mailto:vardhananubhav@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
 
