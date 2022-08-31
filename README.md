@@ -4,7 +4,7 @@
 - ⛵ Open Source enthusiast | Contributor at [Kubernetes](https://github.com/kubernetes) and [CNCF](https://github.com/cncf)
 - ✅ Maintainer - K8s Hindi Docs and CNCF Hindi Glossary
 - 🌱 Learning Go and DevOps stuff
-- 😄 Pronouns: He/him/his
+- 😄 Pronouns: He/Him
 
 ### Languages and Tools
 
