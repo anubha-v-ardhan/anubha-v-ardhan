@@ -10,7 +10,6 @@
 
 <p align="left">
   
-<img src="https://img.icons8.com/plasticine/2x/android-os.png"  alt="Android"  width="40"  height="40"/>
 <img src="https://img.icons8.com/color/2x/linux.png"/ alt="Linux" width="40" height="40">
 <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/vim-icon.png"  alt="Vim"  width="40"  height="40"/> 
 <img src="https://img.icons8.com/plasticine/2x/visual-studio-code-2019.png"  alt="VSCode"  width="40"  height="40"/>
