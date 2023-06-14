@@ -10,12 +10,10 @@
 
 <p align="left">
   
-<img src="https://img.icons8.com/plasticine/2x/android-os.png"  alt="Android"  width="40"  height="40"/>
 <img src="https://img.icons8.com/color/2x/linux.png"/ alt="Linux" width="40" height="40">
 <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/vim-icon.png"  alt="Vim"  width="40"  height="40"/> 
 <img src="https://img.icons8.com/plasticine/2x/visual-studio-code-2019.png"  alt="VSCode"  width="40"  height="40"/>
 <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"  alt="Java"  width="40"  height="40"/>        
-<img src="https://img.icons8.com/color/2x/kotlin.png"  alt="Kotlin"  width="40"  height="40"/> 
 <img src="https://img.icons8.com/color/2x/html-5.png"  alt="HTML"  width="40"  height="40"/>
 <img src="https://img.icons8.com/color/2x/git.png"  alt="Git"  width="40"  height="40"/>    
 <img src="https://img.icons8.com/fluent/2x/github.png"  alt="GitHub"  width="40"  height="40"/>
